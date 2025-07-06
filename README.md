@@ -101,7 +101,8 @@ Realizei um diagrama na ferramenta LucidChart, com classes, atributos e métodos
   </section>
 
   <section class="answer">
-    <h2>Resposta</h2>
+    <h2>![image](https://github.com/user-attachments/assets/051c6369-dee7-45a9-9925-d6efd46ffbf2)
+</h2>
     <p><!-- Coloque aqui o diagrama (imagem) ou descrição em texto/plantUML, se for entregar em HTML --></p>
   </section>
 
