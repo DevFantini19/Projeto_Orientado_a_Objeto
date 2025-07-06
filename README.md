@@ -4,7 +4,7 @@ descrição do projeto
 
 Realizei um diagrama na ferramenta LucidChart, com classes, atributos e métodos
 
-# MAPA – Projeto Oreinetado a Obejto
+# MAPA – Projeto Orientado a Obejto
 
 Este repositório contém a solução do MAPA com o diagrama de classes.
 
